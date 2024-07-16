@@ -1,0 +1,221 @@
+  *{
+    padding:0px;
+    margin: 0px;
+}
+ 
+
+
+ .jost {
+  font-family: "Jost", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.parent1{
+     height: 850px;
+     width: 100%;
+     background-color: #fef9ed;
+}
+.box1{
+    height: 100px;
+    width: 100%;
+    /* background-color: #d2980f; */
+    display: flex;
+    justify-content: center;
+    
+   
+
+}
+
+.navbar1{
+    
+    height: 100px;
+    width: 74%;
+    /* background-color: blue; */
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.navbarin1{
+  height: 100px;
+  width: 18%;
+  /* background-color: red; */
+ 
+  
+  
+}
+
+
+.imgnav{
+    padding-left: 20px;
+    padding-top: 32px;
+
+}
+
+.navbarin2{
+    height: 100px;
+    width: 43%;
+    /* background-color: yellow; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+
+  .home{
+    letter-spacing: 3px;
+    padding-left: 10px;
+    color: #ff671f;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: jost;
+  }
+
+  .Services{
+    padding-left: 40px;
+    letter-spacing: 3px;
+    color: Black;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: jost;
+    
+  }
+
+  .Skills{
+    padding-left: 40px;
+    letter-spacing: 3px;
+    color: Black;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: jost;
+  }
+  .Portfolio{
+    padding-left: 40px;
+    letter-spacing: 3px;
+    color: Black;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: jost;
+  }
+  .Contact{
+    padding-left: 40px;
+    letter-spacing: 3px;
+    color: Black;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: jost;
+  }
+
+  .navbarin3{
+    height: 100px;
+    width: 18%;
+    /* background-color: yellow; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+
+.buttton{
+    height: 45px;
+    width: 170px;
+  background-color:  #fe641c;
+  border: 0cap;
+  box-shadow: 5px 5px  black; 
+  color: white;
+  font-weight: 700;
+  font-family: jost;
+  letter-spacing: 3px;
+}
+
+
+.box2{
+   height: 1000px;
+   width: 100%;
+   
+   display: flex;
+   justify-content: center;
+}
+
+.boxmain{
+    height: 1000px;
+    width: 80%;
+    
+    display: flex;
+ }
+
+ .leftbox{
+  height: 1000px;
+  width: 50%;
+ }
+
+ .name{
+    padding-left: 70PX;
+ font-family: jost;
+ letter-spacing: 3px;
+ font-weight: 600;
+
+}
+
+.iam{
+    padding-left: 70PX;
+    font-family: jost;
+    letter-spacing: 3px;
+    font-weight: bold;
+    font-size: 70px;
+}
+.based{
+    letter-spacing: 3px;
+    padding-left: 70PX;
+    font-family: jost;
+    letter-spacing: 3px;
+}
+
+ .buttton2{
+    letter-spacing: 3px;
+    margin-left: 70px;
+    height: 45px;
+    width: 170px;
+  background-color:  #fe641c;
+  border: 0cap;
+  box-shadow: 5px 5px  black; 
+  color: white;
+  font-weight: 700;
+  font-family: jost;
+}
+
+ .rightbox{
+    height: 1000px;
+    width: 50%;
+ }
+
+ .imggirl{
+    max-height: 580;
+    max-width: 710;
+
+
+ }
+
+
+
+ .parent2{
+    height: 100px;
+    width: 100%;
+    background-color: #373636;
+    display: flex;
+    justify-content: center;
+}
+
+.parent2in{ 
+  
+    height: 100px;
+    width: 73%;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    
+}
