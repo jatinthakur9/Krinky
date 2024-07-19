@@ -910,9 +910,448 @@ height: 900px;
 width: 44.5%;
 /* background-color: lightgrey; */
 }
-/* katest project ends hereS */
+/* latest project ends hereS */
+
+/* testimial part starts here */
 
 
+
+/* testimonial ends here  */
+
+.testi{
+  height: 400px;
+  width: 100%;
+  /* background-color: lightcyan; */
+}
+
+
+.testimonial{
+  /* padding-left: 240px; */
+  font-family: jost;
+  font-size: 51px;
+  font-weight: 550;
+  color: black;
+  letter-spacing: 3px;
+  text-align: center;
+}
+
+.twoboxes{ 
+  height: 250px;
+  width: 100%;
+  /* background-color: lightblue; */
+  display: flex ;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.innn{
+  height: 250px;
+  width: 72%;
+  /* background-color: red; */
+  display: flex ;
+  justify-content: center;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+.innn1{
+  height: 220px;
+  width: 48.5%;
+  /* background-color: pink; */
+  border-style: solid;
+  border-color: black;
+  border-width: 1.99px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  
+}
+
+
+.innn2{
+  height: 220px;
+  width: 48.5%;
+  /* background-color: pink; */
+  border-style: solid;
+  border-color: black;
+  border-width: 1.99px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+
+}
+
+
+.smallboxx{
+  height: 190px;
+  width: 90%;
+  background-color: white;
+  display: flex;
+
+}
+
+.photosb{
+  margin-top: 20px;
+  margin-left: 15px;
+  height: 95px;
+  width: 95px;
+  background-color: white;
+  border-style: solid;
+  border-color: black;
+ border-width: 1.99px;
+
+}
+
+
+.ipsum{
+  padding-top: 20px;
+  padding-left: 20px;
+  font-family: jost;
+  font-size: px;
+  font-weight: 420;
+  color: rgb(67, 66, 66);
+  /* letter-spacing: 3px; */
+  /* text-align: center; */
+
+}
+
+.jenni{
+  padding-top: 10px;
+  padding-left: 20px;
+  font-family: jost;
+  font-size: 16px;
+  font-weight: 550;
+  color: black
+}
+
+
+.pxdraft{
+  padding-top: 1px;
+  padding-left: 20px;
+  font-family: jost;
+  font-size: 15px;
+  font-weight: 420;
+  color: rgb(61, 58, 58)
+}
+
+
+.dots{
+  height: 20px;
+  width: 100%;
+  /* background-color: lightgray; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.dot1{
+  height: 10px;
+  width: 10px;
+  background-color: black;
+  border-radius: 50%;
+  display: inline-block;
+  border-style: solid;
+  border-width: 1px;
+  margin-right: 5px;
+}
+.dot2{
+  margin-left: 5px;
+  height: 10px;
+  width: 10px;
+  border-style: solid;
+  border-width: 1px;
+  background-color: white;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+
+/* last section starts here */
+.lastparent{
+  height: 770px;
+  width: 100%;
+  background-image: url(bg-effect-3.png);
+  background-color: #373636;
+  /* background-repeat: no-repeat; */
+  background-size: cover;
+  background-position: 92%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+   
+  /* background-position: center; */
+}
+
+
+
+.lpbox{
+    height: 600;
+    width: 72%;
+    /* background-color: lightblue; */
+    display: flex;
+}
+
+.leftlast{
+  padding-right: 30px;
+  height: 600px;
+  width: 50%;
+  background-color: white ;
+}
+
+
+.gettin{
+  padding-left: 30px;
+  font-family: jost;
+  font-size: 35px;
+  font-weight: 550;
+  color: black;
+  
+  
+}
+
+.ourfr{
+  padding-left: 30px;
+  font-family: jost;
+  font-size: 18px;
+  font-weight: 420;
+  color: rgb(78, 73, 73);
+
+}
+
+
+
+.rightlast{
+  margin-left: 230px;
+  margin-right: 15px;
+  height: 600px;
+  width: 50%;
+  /* background-color: lightgrey; */
+
+}
+
+.forform{
+  margin-left: 30px;
+  height: 600px;
+  /* width: 550px;
+  background-color: red; */
+}
+.fnamee{
+  font-family: jost;
+  font-size: 15px;
+  color: rgb(86, 84, 84);
+  line-height: 40px;
+}
+
+.emaill{ margin-left: 205px;
+  font-family: jost;
+  font-size: 15px;
+  color: rgb(86, 84, 84);
+  line-height: 40px;  
+}
+
+
+.namebox{
+height: 45px;
+width:260px;
+font-family: jost;
+font-size: 16px;
+}
+
+.emailbox{
+  margin-left:10px ;
+  height: 45px;
+  width:260px;
+  font-family: jost;
+  font-size: 16px;
+}
+
+.subbox{
+  font-size: 16px;
+  height: 45px;
+  width:535px;
+  font-family: jost;  
+}
+
+.mbox{
+  font-size: 16px;
+  height: 150px;
+  width:535px;
+  font-family: jost;
+}
+
+
+.buttton7{
+  /* margin-left: px; */
+  height: 45px;
+  width: 170px;
+background-color:  #fec448;
+border: 0cap;
+box-shadow: 5px 5px  #fa641d; 
+color: black;
+font-weight: 500;
+font-family: jost;
+letter-spacing: 3px;
+
+}
+
+
+.phonebox{
+  width: 100%;
+  height: 52px;
+  
+  display: flex;
+}
+
+.iconbox{
+  height: 52px;
+  width: 59px;
+  background-color: #9bd2d1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fa-envelope{
+  font-size: 25px;
+  color: black;
+}
+
+.txtspace{ 
+  margin-left: 10px;
+  font-family: jost;
+  letter-spacing: 2px;
+  color: #9dacad;
+  font-size: 15px;
+}
+
+
+
+
+.mailbox{
+  width: 100%;
+  height: 52px;
+  
+  display: flex;
+}
+
+.iconboxc{
+  height: 52px;
+  width: 59px;
+  background-color: #ffc446;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fa-envelope{
+  font-size: 25px;
+  color: black;
+}
+
+.txtspace{ 
+  margin-left: 10px;
+  font-family: jost;
+  letter-spacing: 2px;
+  color: #9dacad;
+  font-size: 15px;
+}
+
+
+.Visitbox{
+  width: 100%;
+  height: 52px;
+  
+  display: flex;
+}
+
+
+.fa-phone{
+  font-size: 25px;
+  color: black;
+}
+
+
+.iconboxl{
+  padding-right: 22px;
+  height: 52px;
+  width: 59px;
+  background-color: #ffccb4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fa-location-dot{
+  margin-left: 20px;
+  font-size: 25px;
+  color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* last section ends here */
+
+ /* last small box starts here */
+
+ .lsmall{
+  
+  height: 50px;
+  width: 100%;
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-around;
+  background-color: #373636;
+ }
+
+ .smallboxin{
+  height: 50px;
+  width: 75%;
+
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+  color: #b4bbbc;
+ }
+
+
+
+ .fa-facebook-f{
+    margin-left: 20px;
+ }
+
+ .fa-twitter{
+  margin-left: 15px;
+}
+
+.fa-instagram{
+  margin-left: 15px;
+}
+
+
+
+.fa-linkedin-in{
+  margin-left: 15px;
+}
+
+.fa-pinterest{
+  margin-left: 15px;
+}
+
+ /* last small box ends here */
 
 
 
